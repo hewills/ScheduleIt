@@ -1,2 +1,3 @@
-# ScheduleIt
-Windows application for building class schedules
+# ScheduleIt   
+### (In progress) ###   
+Windows application for building class schedules   

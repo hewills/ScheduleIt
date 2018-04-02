@@ -1,0 +1,14 @@
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\bin\Debug\ScheduleIt.exe.config
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\bin\Debug\ScheduleIt.exe
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\bin\Debug\ScheduleIt.pdb
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\obj\Debug\ScheduleIt.csprojResolveAssemblyReference.cache
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\obj\Debug\ScheduleIt.Properties.Resources.resources
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\obj\Debug\ScheduleIt.csproj.GenerateResource.cache
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\obj\Debug\ScheduleIt.csproj.CoreCompileInputs.cache
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\obj\Debug\ScheduleIt.exe
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\obj\Debug\ScheduleIt.pdb
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\obj\Debug\ScheduleIt.formMain.resources
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\obj\Debug\ScheduleIt.AboutBox1.resources
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\bin\Debug\db1.mdf
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\bin\Debug\db1_log.ldf
+C:\Users\samantha\Desktop\Projects\CSharp\ScheduleIt\ScheduleIt\obj\Debug\ScheduleIt.Rooms.resources
